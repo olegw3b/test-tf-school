@@ -1,5 +1,6 @@
 const user = {
   name: 'Oleg',
   age: 31,
-  country: 'Ukraine'
+  country: 'Ukraine',
+  city: 'Dnipro'
 }
